@@ -2,11 +2,12 @@
 The Employee Attendance System is a comprehensive solution for tracking and managing employee attendance efficiently. This system provides real-time attendance recording, leave management, and robust reporting features to streamline the HR processes in your organization.
 
 ### Table of Contents
-* **Features**
-* **Installation**
-* **Usage**
-* **SRS (Software Requirement Specification)**
-* **License**
+* Version
+* Features
+* Installation
+* Usage
+* SRS (Software Requirement Specification)
+* License
 
 
 ### Version
